@@ -1,0 +1,27 @@
+h1{color: black;}
+button{background-color: #7deadd;}
+h3{text-align: center;
+    font-size: 33px;
+    font-family: Chilanka;
+    color: snow;
+    text-decoration: underline;}
+form {
+    border: solid peru 2px;
+    font-size: 28px;
+    background-color: white;
+    font-family: Chandas;
+    padding: inherit;
+    text-decoration: snow;
+}
+table{
+    border: solid 2px black;
+    border-radius: 15px;
+    padding: 300px;
+    width: 400px;
+    align-items: center;
+    border-spacing:2px ;
+    border-collapse: collapse;
+    text-align: center;
+
+}
+

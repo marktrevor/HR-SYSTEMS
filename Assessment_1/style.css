@@ -1,0 +1,39 @@
+ h1{font-size: 33px;
+        color: yellowgreen;
+        text-align: center;
+        text-decoration: underline;
+        font-family: AnjaliOldLipi;}
+    p{color: cyan;
+        font-size: 20px;
+        font-family: cursive;}
+    h3{font-size: 22px;
+        font-style: italic;
+        color: brown;}
+    h5{font-style: oblique;
+        color: dimgrey;}
+
+#boby,.g{font-size: 40px;
+          color: gold;}
+
+#boby{font-family: Chilanka;
+        font-size: 44px;
+        color: limegreen;
+
+}
+#boby{color: aquamarine;}
+body{background-color: lightcyan}
+  h1{color: cyan;
+         font-size: 33px;
+         font-family: Chandas;
+         text-decoration: underline;
+         text-align: center;}
+    p{color: yellowgreen;
+        font-family: Chilanka;
+         font-size: 20px}
+.yours{font-size: 44px;}
+#trail{color: crimson}
+.yours,#trail{font-style: italic;}
+
+#style{color: hotpink;}
+
+li{font-size: 20px;}
